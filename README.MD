@@ -74,3 +74,5 @@ svbot.exe
 ### 2.发送给机器人
 <img src=/wiki/video.gif width=500 height=1200 />
 
+## 鸣谢
+部分平台解析灵感来自：[https://github.com/5ime/video_spider](https://github.com/5ime/video_spider)
