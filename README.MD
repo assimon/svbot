@@ -76,3 +76,7 @@ svbot.exe
 
 ## 鸣谢
 部分平台解析灵感来自：[https://github.com/5ime/video_spider](https://github.com/5ime/video_spider)
+
+## 声明`warning！`
+项目仅用于`学习交流`使用，禁止用于任何商业目的。       
+由于开源项目的分发不可控，故使用者在使用该项目时出现的任何法律问题由使用者自行承担！       
