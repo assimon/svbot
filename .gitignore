@@ -1,0 +1,5 @@
+.idea
+config.toml
+log/*
+dist
+.DS_Store

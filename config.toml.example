@@ -1,0 +1,11 @@
+[cookie]
+kuaishou_cookie="did=web_5203607b4b9a47449cc67a14a95ad248; didv=1665371041000"
+xigua_cookie="MONITOR_WEB_ID=7892c49b-296e-4499-8704-e47c1b150c18; ixigua-a-s=1; ttcid=af99669b6304453480454f150701d5c226; BD_REF=1; __ac_nonce=060d88ff000a75e8d17eb; __ac_signature=_02B4Z6wo00f01kX9ZpgAAIDAKIBBQUIPYT5F2WIAAPG2ad; ttwid=1%7CcIsVF_3vqSIk4XErhPB0H2VaTxT0tdsTMRbMjrJOPN8%7C1624806049%7C08ce7dd6f7d20506a41ba0a331ef96a6505d96731e6ad9f6c8c709f53f227ab1"
+
+[log]
+max_size=32
+max_age=7
+max_backups=3
+
+[telegram]
+api_token="your telegram bot api token"
