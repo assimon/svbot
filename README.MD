@@ -69,10 +69,10 @@ svbot.exe
 
 ## 使用预览
 ### 1.复制短视频链接
-<img src="https://cloud-dc1-lg.utf8.hk/api/v3/slave/source/0/dXBsb2Fkcy8yMDIyLzExLzI4L3NKU1lVMUtuX2NvcHlfdXJsLmdpZg/copy_url.gif?sign=uvK1moqH5KrFvTzgu_uOd6dpbaojbDXcbFCuf6NC5sc%3D%3A0" width=500 height=1200 />
+<img src=https://cloud-dc1-lg.utf8.hk/api/v3/slave/source/0/dXBsb2Fkcy8yMDIyLzExLzI4L3NKU1lVMUtuX2NvcHlfdXJsLmdpZg/copy_url.gif?sign=uvK1moqH5KrFvTzgu_uOd6dpbaojbDXcbFCuf6NC5sc%3D%3A0 width=500 height=1200 />
 
 ### 2.发送给机器人
-<img src="https://cloud-dc1-lg.utf8.hk/api/v3/slave/source/0/dXBsb2Fkcy8yMDIyLzExLzI4L1hVRXhlRlNsX3ZpZGVvLmdpZg/video.gif?sign=kzoUonIVXC8nEIaE9u5HJwKh6HXbFRuWs63G9Ef10zU%3D%3A0" width=500 height=1200 />
+<img src=https://cloud-dc1-lg.utf8.hk/api/v3/slave/source/0/dXBsb2Fkcy8yMDIyLzExLzI4L1hVRXhlRlNsX3ZpZGVvLmdpZg/video.gif?sign=kzoUonIVXC8nEIaE9u5HJwKh6HXbFRuWs63G9Ef10zU%3D%3A0 width=500 height=1200 />
 
 ## 鸣谢
 部分平台解析灵感来自：[https://github.com/5ime/video_spider](https://github.com/5ime/video_spider)
