@@ -12,6 +12,11 @@ var (
 )
 
 func Start() {
+	defer func() {
+		if err := recover(); err != nil {
+			log.Sugar.Error(err)
+		}
+	}()
 	var err error
 	setting := tb.Settings{
 		Token:   config.GetTelegramInstance().ApiToken,
