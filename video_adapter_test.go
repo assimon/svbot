@@ -29,7 +29,7 @@ func TestPipixiaAdapter_GetShortVideoInfo(t *testing.T) {
 
 func TestHuoshanAdapter_GetShortVideoInfo(t *testing.T) {
 	adapter := &adapter2.HuoshanAdapter{}
-	resp, err := adapter.GetShortVideoInfo("https://share.huoshan.com/hotsoon/s/EU67vTEfHx8/")
+	resp, err := adapter.GetShortVideoInfo("https://share.huoshan.com/hotsoon/s/6LtxUndlBy8/")
 	if err != nil {
 		t.Error(err)
 	}
